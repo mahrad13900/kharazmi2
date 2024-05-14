@@ -1,0 +1,16 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>lectern.png</file>
+    <file>back.png</file>
+    <file>book.png</file>
+    <file>businessman.png</file>
+    <file>button.png</file>
+    <file>contact-list.png</file>
+    <file>delete.png</file>
+    <file>giving.png</file>
+    <file>library.png</file>
+    <file>plus.png</file>
+    <file>student.png</file>
+    <file>technical-support (1).png</file>
+  </qresource>
+</RCC>
